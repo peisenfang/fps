@@ -3,7 +3,7 @@
 // 配置json
 // npm run build
 function fn(a:number,b:number):number{
-    return a + b
+    return a + b*2
 }
 console.log(fn(1,2));
 console.log(fn(1546,2952));
